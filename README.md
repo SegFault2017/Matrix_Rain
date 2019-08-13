@@ -1,2 +1,2 @@
 # Matrix_Rain
-Created a matrix rain animation 
+Created a matrix rain-like animation 
